@@ -41,7 +41,6 @@ void Document_Info::print_set(){
 	}
 }
 
-//This method provided by the prof.
 int getdir (string dir, vector<string> &files)
 {
     DIR *dp;
